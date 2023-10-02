@@ -1,0 +1,22 @@
+.main{
+    background-color: #FD0C49;
+    color: white;
+}
+
+.fondo{
+    background-color: #FD0C49;
+    color: white;
+    opacity: 0.8;
+}
+
+.fondogris80{
+    background-color: gray;
+    color: white;
+    opacity: 0.8;
+}
+
+.fondogris60{
+    background-color: gray;
+    color: white;
+    opacity: 0.6;
+}
